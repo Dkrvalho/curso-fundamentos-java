@@ -1,4 +1,4 @@
-package dio.findamentos.java.aula2;
+package dio.fundamentos.java.aula2;
 
 //Classe de Exemplo para o exercício da Aula 2 de Variáveis, Tipos de Dods e Operadores Aritméticos.
 
